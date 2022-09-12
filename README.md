@@ -10,6 +10,3 @@ S3Publicly_accessible.PNG - screenshot for bucket publicly accessible<br />
 S3BucketUrlWithoutIndex.PNG - screenshot after browsing bucket url without index.html<br />
 S3BucketUrlWithIndex.PNG - screenshot after browsing bucket url with index.html included<br />
 S3BucketUrlCloudFrontWithoutIndex.PNG - screenshot after browsing cloudfront url without index.html<br />
-
-s3 bucket url = http://my-339367339627-bucket.s3-website-us-east-1.amazonaws.com/<br />
-cloudfront url - https://dr7ty0mjzvwpx.cloudfront.net/<br />

@@ -1,5 +1,5 @@
-# Deploy-Static-Website-on-AWS
-First project in devops track has been deployed
+Deploy Static Website on AWS
+
 The files included are: 
 
 CloudFront.PNG - screenshot for cloudfront general information
